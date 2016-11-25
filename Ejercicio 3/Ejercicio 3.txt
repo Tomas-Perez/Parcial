@@ -1,0 +1,11 @@
+a.m1() = StackOverflowError
+a.m2() = 1
+a.m3() = StackOverflowError
+
+b.m1() = 7
+b.m2() = 7
+b.m3() = 7
+
+c.m1() = 18
+c.m2() = 9
+c.m3() = 9
